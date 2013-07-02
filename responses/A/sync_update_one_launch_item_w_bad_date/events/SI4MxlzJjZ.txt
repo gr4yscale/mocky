@@ -1,0 +1,1 @@
+{"event":{"oid":"SI4MxlzJjZ","api":{"theme":"https://mocky.crowdcompass.com/api/client/events/SI4MxlzJjZ/theme","sync":"https://mocky.crowdcompass.com/e/SI4MxlzJjZ/synchronization/aggregate/:time.js"}}}

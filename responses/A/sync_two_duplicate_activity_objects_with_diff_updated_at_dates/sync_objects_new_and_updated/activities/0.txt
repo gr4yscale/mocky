@@ -1,0 +1,38 @@
+[
+  {
+      "activity": {
+          "activity_description": "two activity json objects from server",
+          "created_at": "2013-04-28 01:53:46.345",
+          "display_number": null,
+          "end_datetime": "2011-08-05 13:30:00.000",
+          "is_all_day": null,
+          "location_name": null,
+          "location_oid": "w2bpQgDx5Q",
+          "location_type": "Area",
+          "name": "schizophrenic activity",
+          "oeg_related_activities": [],
+          "oid": "DUPLICATED",
+          "start_datetime": "2011-08-05 11:00:00.000",
+          "track_oid": "yZ5sIuOpnh",
+          "updated_at": "2013-04-30 11:53:46.345"
+      }
+    },
+    {
+      "activity": {
+          "activity_description": "two activity json objects from server",
+          "created_at": "2013-04-28 01:53:46.345",
+          "display_number": null,
+          "end_datetime": "2011-08-05 13:30:00.000",
+          "is_all_day": null,
+          "location_name": null,
+          "location_oid": "w2bpQgDx5Q",
+          "location_type": "Area",
+          "name": "schizophrenic activity",
+          "oeg_related_activities": [],
+          "oid": "DUPLICATED",
+          "start_datetime": "2011-08-05 11:00:00.000",
+          "track_oid": "yZ5sIuOpnh",
+          "updated_at": "2013-04-28 10:53:46.345"
+      }
+    }
+]

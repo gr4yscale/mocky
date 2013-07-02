@@ -1,0 +1,387 @@
+{
+    "count": 7,
+    "next_page_url": null,
+    "page": 1,
+    "search": null,
+    "search_results": [
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/SI4MxlzJjZ",
+                "apps": [
+                    {
+                        "name": "CrowdCompass Directory",
+                        "oid": "4815162342"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": 175140,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-hdpi.zip"
+                    },
+                    "android-ldpi": {
+                        "size": 82845,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-ldpi.zip"
+                    },
+                    "android-mdpi": {
+                        "size": 113793,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-mdpi.zip"
+                    },
+                    "android-xhdpi": {
+                        "size": 147603,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-xhdpi.zip"
+                    },
+                    "ios-1x": {
+                        "size": 113709,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-ios-1x.zip"
+                    },
+                    "ios-2x": {
+                        "size": 147505,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-ios-2x.zip"
+                    }
+                },
+                "database_size": 2790373,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/SI4MxlzJjZ-database.zip",
+                "end_date": "2013-05-02",
+                "event_description": "<p>I did not watch my buddies die face down in the muck for this.</p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/ice/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/v3-app-development_crowdc/assets/events/SI4MxlzJjZ/theme-customizations/event-guide-icon.:size.1362533672.png",
+                "event_url": "https://event.development.crowdcompass.com/dev-roundrobin",
+                "invite_only": true,
+                "last_update": "2013-04-30T19:02:09Z",
+                "locality": "Portland, Oregon, United States",
+                "name": "The Next Round Robin",
+                "oid": "SI4MxlzJjZ",
+                "short_name": "dev-roundrobin",
+                "start_date": "2013-03-05",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/SI4MxlzJjZ/synchronization/aggregate/:time.js",
+                "time_zone": "America/Los_Angeles",
+                "venue": "Star Bowling Alley"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/g4IOT0chLo",
+                "apps": [
+                    {
+                        "name": "CrowdCompass Directory",
+                        "oid": "4815162342"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": 6137,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-android-hdpi.zip"
+                    },
+                    "android-ldpi": {
+                        "size": 4691,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-android-ldpi.zip"
+                    },
+                    "android-mdpi": {
+                        "size": 5267,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-android-mdpi.zip"
+                    },
+                    "android-xhdpi": {
+                        "size": 3732,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-android-xhdpi.zip"
+                    },
+                    "ios-1x": {
+                        "size": 5231,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-ios-1x.zip"
+                    },
+                    "ios-2x": {
+                        "size": 3690,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/g4IOT0chLo-assets-ios-2x.zip"
+                    }
+                },
+                "database_size": 234713,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/g4IOT0chLo-database.zip",
+                "end_date": "2013-06-05",
+                "event_description": "<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><p>locations</p></blockquote></blockquote></blockquote><br><a href=\"mailto:someone@gmail.com\">guy</a><br>\r\n\r\n<a href=\"http://gmail.com\">gmail</a><br><br><br>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/dark/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/v3-app-development_crowdc/assets/events/g4IOT0chLo/theme-customizations/event-guide-icon.:size.1365464402.png",
+                "event_url": "https://event.development.crowdcompass.com/cjh-",
+                "invite_only": false,
+                "last_update": "2013-04-30T19:00:44Z",
+                "locality": "Westborough, MA, USA",
+                "name": "cjh",
+                "oid": "g4IOT0chLo",
+                "short_name": "cjh-",
+                "start_date": "2013-03-27",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/g4IOT0chLo/synchronization/aggregate/:time.js",
+                "time_zone": "Europe/London",
+                "venue": "Homebase"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/3a0UIgo8NK",
+                "apps": [
+                    {
+                        "name": "CrowdCompass Directory",
+                        "oid": "4815162342"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-ldpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-mdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-xhdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-1x": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-2x": {
+                        "size": null,
+                        "url": null
+                    }
+                },
+                "database_size": 1182203,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/3a0UIgo8NK-database.zip",
+                "end_date": "2013-05-10",
+                "event_description": "<p>Trying to make a current event</p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_guide_icon-:size.png",
+                "event_url": "https://event.development.crowdcompass.com/-ccqebetterer",
+                "invite_only": true,
+                "last_update": "2013-04-30T19:01:25Z",
+                "locality": "Portland, Oregon, United States",
+                "name": "Better Event",
+                "oid": "3a0UIgo8NK",
+                "short_name": "-ccqebetterer",
+                "start_date": "2013-04-22",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/3a0UIgo8NK/synchronization/aggregate/:time.js",
+                "time_zone": "America/Los_Angeles",
+                "venue": "CrowdCompass"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/qQSSXKpoXn",
+                "apps": [
+                    {
+                        "name": "CrowdCompass's Custom App 1",
+                        "oid": "o9QBpnG7Lx"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-ldpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-mdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-xhdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-1x": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-2x": {
+                        "size": null,
+                        "url": null
+                    }
+                },
+                "database_size": 216276,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/qQSSXKpoXn-database.zip",
+                "end_date": "2013-05-05",
+                "event_description": "<p>This should show the right days away upon download.<br></p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_guide_icon-:size.png",
+                "event_url": "https://event.development.crowdcompass.com/fix-8648-1",
+                "invite_only": false,
+                "last_update": "2013-04-30T00:30:08Z",
+                "locality": "Ann Arbor, Michigan, United States",
+                "name": "Awesome Test for 8648 #1",
+                "oid": "qQSSXKpoXn",
+                "short_name": "fix-8648-1",
+                "start_date": "2013-05-05",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/qQSSXKpoXn/synchronization/aggregate/:time.js",
+                "time_zone": "America/New_York",
+                "venue": "Seoul Garden"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/Ok72FH1vLJ",
+                "apps": [
+                    {
+                        "name": "Sobchak Security's Custom App 1",
+                        "oid": "G9eICUilBu"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-ldpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-mdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-xhdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-1x": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-2x": {
+                        "size": null,
+                        "url": null
+                    }
+                },
+                "database_size": 216276,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/Ok72FH1vLJ-database.zip",
+                "end_date": "2013-05-05",
+                "event_description": "<p>Quit Playing Games With My Heart</p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_guide_icon-:size.png",
+                "event_url": "https://event.development.crowdcompass.com/larger-than-life",
+                "invite_only": false,
+                "last_update": "2013-04-11T18:02:40Z",
+                "locality": "Portland, OR, USA",
+                "name": "Backstreet's Back",
+                "oid": "Ok72FH1vLJ",
+                "short_name": "larger-than-life",
+                "start_date": "2013-05-05",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/Ok72FH1vLJ/synchronization/aggregate/:time.js",
+                "time_zone": "America/Los_Angeles",
+                "venue": "Rose Garden"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/SXHWuUXKTK",
+                "apps": [
+                    {
+                        "name": "CrowdCompass's Custom App 1",
+                        "oid": "o9QBpnG7Lx"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-ldpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-mdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-xhdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-1x": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-2x": {
+                        "size": null,
+                        "url": null
+                    }
+                },
+                "database_size": 214228,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/SXHWuUXKTK-database.zip",
+                "end_date": "2013-05-07",
+                "event_description": "<p>This is another test<br></p>",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_guide_icon-:size.png",
+                "event_url": "https://event.development.crowdcompass.com/fix-8648-2",
+                "invite_only": false,
+                "last_update": "2013-04-11T17:52:05Z",
+                "locality": "Ypsilanti, Michigan, United States",
+                "name": "Test for 8648 #2",
+                "oid": "SXHWuUXKTK",
+                "short_name": "fix-8648-2",
+                "start_date": "2013-05-06",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/SXHWuUXKTK/synchronization/aggregate/:time.js",
+                "time_zone": "America/New_York",
+                "venue": "Seoul Garden"
+            }
+        },
+        {
+            "event": {
+                "api_url": "https://v3.eventcenter.development.crowdcompass.com/api/client/events/pFY1GTM1t6",
+                "apps": [
+                    {
+                        "name": "CrowdCompass Directory",
+                        "oid": "4815162342"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-ldpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-mdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "android-xhdpi": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-1x": {
+                        "size": null,
+                        "url": null
+                    },
+                    "ios-2x": {
+                        "size": null,
+                        "url": null
+                    }
+                },
+                "database_size": 216276,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/pFY1GTM1t6-database.zip",
+                "end_date": "2014-11-12",
+                "event_description": "<p>Hope this works!<br></p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/light/event_guide_icon-:size.png",
+                "event_url": "https://event.development.crowdcompass.com/fix-8648-3",
+                "invite_only": false,
+                "last_update": "2013-04-30T18:56:23Z",
+                "locality": "Ann Arbor, Michigan, United States",
+                "name": "Test for 8648 #3",
+                "oid": "pFY1GTM1t6",
+                "short_name": "fix-8648-3",
+                "start_date": "2014-11-12",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/pFY1GTM1t6/synchronization/aggregate/:time.js",
+                "time_zone": "America/New_York",
+                "venue": "Galleria Market"
+            }
+        }
+    ],
+    "total": 7
+}

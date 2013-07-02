@@ -1,0 +1,14 @@
+[    {
+        "launch_item": {
+            "auth_required": false,
+            "created_at": "2013-03-19 DD:CC:BB.aaaaaaaa",
+            "display_name": "Attendees",
+            "icon_name": "attendees",
+            "name": "attendees",
+            "oid": "tDbW15BS1r",
+            "sequence_number": -4193803,
+            "updated_at": "2013-04-04 22:34:46.185",
+            "url": "nx://attendees"
+        }
+    }
+]

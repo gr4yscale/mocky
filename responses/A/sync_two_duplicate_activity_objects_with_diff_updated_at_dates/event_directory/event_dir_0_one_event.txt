@@ -1,0 +1,63 @@
+{
+    "count": 1,
+    "next_page_url": null,
+    "page": 1,
+    "search": null,
+    "search_results": [
+        {
+            "event": {
+                "api_url": "http://mocky.crowdcompass.com/api/client/events/SI4MxlzJjZ",
+                "apps": [
+                    {
+                        "name": "CrowdCompass Directory",
+                        "oid": "4815162342"
+                    }
+                ],
+                "asset_packages": {
+                    "android-hdpi": {
+                        "size": 175140,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-hdpi.zip"
+                    },
+                    "android-ldpi": {
+                        "size": 82845,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-ldpi.zip"
+                    },
+                    "android-mdpi": {
+                        "size": 113793,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-mdpi.zip"
+                    },
+                    "android-xhdpi": {
+                        "size": 147603,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-android-xhdpi.zip"
+                    },
+                    "ios-1x": {
+                        "size": 113709,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-ios-1x.zip"
+                    },
+                    "ios-2x": {
+                        "size": 147505,
+                        "url": "http://s3.amazonaws.com/v3-app-development_crowdc/asset_packages/SI4MxlzJjZ-assets-ios-2x.zip"
+                    }
+                },
+                "database_size": 2790373,
+                "database_url": "http://s3.amazonaws.com/v3-app-development_crowdc/client_databases/SI4MxlzJjZ-database.zip",
+                "end_date": "2013-05-02",
+                "event_description": "<p>I did not watch my buddies die face down in the muck for this.</p>\r\n",
+                "event_directory_icon_url": "http://s3.amazonaws.com/theme-assets.crowdc/1361401537/images/event_themes/ice/event_directory_icon-:size.png",
+                "event_thumb_url": "http://s3.amazonaws.com/v3-app-development_crowdc/assets/events/SI4MxlzJjZ/theme-customizations/event-guide-icon.:size.1362533672.png",
+                "event_url": "https://event.development.crowdcompass.com/dev-roundrobin",
+                "invite_only": true,
+                "last_update": "2013-04-30T19:02:09Z",
+                "locality": "Portland, Oregon, United States",
+                "name": "Integration Testing Event - BOOM!",
+                "oid": "SI4MxlzJjZ",
+                "short_name": "dev-roundrobin",
+                "start_date": "2013-03-05",
+                "sync_url": "https://v3.eventcenter.development.crowdcompass.com/e/SI4MxlzJjZ/synchronization/aggregate/:time.js",
+                "time_zone": "America/Los_Angeles",
+                "venue": "Star Bowling Alley"
+            }        
+      }
+    ],
+    "total": 1
+}
